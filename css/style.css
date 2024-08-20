@@ -478,7 +478,7 @@ header#header-main {
     transform: rotate(180deg);
 }
 .testimonial-main .slick-slider .slick-arrow.slick-disabled {
-    display: none;
+    display: none !important;
 }
 
 
