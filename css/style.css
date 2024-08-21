@@ -41,9 +41,7 @@ body {
     padding: 14px 0;
     align-items: center;
 }
-.nav {
-    padding-right: 50px;
-}
+
 .nav ul {
     display: flex;
     gap: 50px;
