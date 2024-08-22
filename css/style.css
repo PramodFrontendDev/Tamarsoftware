@@ -49,7 +49,9 @@ body {
     font-weight: 500;
 }
 
-
+.logo {
+    display: flex;
+}
 .banner {
     height: 665px;
     width: 100%;
