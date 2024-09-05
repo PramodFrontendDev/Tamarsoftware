@@ -1880,7 +1880,16 @@ span.footer-tick-3d img {
         font-size: 17px;
     }
     .story-left {
-        width: 90%;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .circle-col h3 {
+        font-size: 30px;
+    }
+
+    .circle-col p {
+        font-size: 12px;
     }
 
     .card {
