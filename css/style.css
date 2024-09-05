@@ -1752,6 +1752,10 @@ span.footer-tick-3d img {
         gap: 0px;
         border: solid 1px rgba(0, 0, 0, 0.05);
         padding: 20px;
+        flex-direction: column;
+    }
+    .leadership-details {
+        width: 100%;
     }
     .leadership {
         gap: 30px;
@@ -1815,7 +1819,14 @@ span.footer-tick-3d img {
         width: 100%;
     }
     .banner {
-        padding: 0 0 50px;
+        padding: 30px 0 50px;
+    }
+    .hamburger {
+        width: 35px;
+        height: 25px;
+    }
+    .logo img {
+        max-width: 160px;
     }
     .technologies-section {
         padding: 50px 0;
@@ -1878,6 +1889,7 @@ span.footer-tick-3d img {
     }
     .banner-text h4 {
         font-size: 17px;
+        margin-bottom: 0;
     }
     .story-left {
         width: 100%;
